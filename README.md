@@ -86,3 +86,4 @@ Submitting a pull request
 3. Github structure forces that each dev clones code in exactly the same way, same structure, same folders or it might break webpack
 4. Github structure is prone to dependency inconsistencies since each cartridge has its own repo and package.json
 # training-sfcc-iulia-gheorghe
+# training-sfcc-iulia-gheorghe
