@@ -87,3 +87,4 @@ Submitting a pull request
 4. Github structure is prone to dependency inconsistencies since each cartridge has its own repo and package.json
 # training-sfcc-iulia-gheorghe
 # training-sfcc-iulia-gheorghe
+# training-sfcc-iulia-gheorghe
